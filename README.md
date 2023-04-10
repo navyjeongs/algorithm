@@ -4,12 +4,9 @@
 
 ## 백준
 
----
-
 | Index |      제목       |                                        바로가기                                        |
 | :---: | :-------------: | :------------------------------------------------------------------------------------: |
 |   0   | 동적 프로그래밍 | [바로가기](https://github.com/navyjeongs/algorithm/tree/master/BOJ/DynamicProgramming) |
+|   1   |   그래프 탐색   |   [바로가기](https://github.com/navyjeongs/algorithm/tree/master/BOJ/GraphTraversal)   |
 
 ## 프로그래머스
-
----
