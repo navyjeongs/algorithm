@@ -8,5 +8,5 @@
 | :---: | :-------------: | :------------------------------------------------------------------------------------: |
 |   0   | 동적 프로그래밍 | [바로가기](https://github.com/navyjeongs/algorithm/tree/master/BOJ/DynamicProgramming) |
 |   1   |   그래프 탐색   |   [바로가기](https://github.com/navyjeongs/algorithm/tree/master/BOJ/GraphTraversal)   |
-|   1   |   이진 탐색   |   [바로가기](https://github.com/navyjeongs/algorithm/tree/master/BOJ/BinarySearch)   |
+|   2   |   이진 탐색   |   [바로가기](https://github.com/navyjeongs/algorithm/tree/master/BOJ/BinarySearch)   |
 ## 프로그래머스
