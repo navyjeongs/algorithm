@@ -9,6 +9,11 @@
 |   0   | 동적 프로그래밍 | [바로가기](https://github.com/navyjeongs/algorithm/tree/master/BOJ/DynamicProgramming) |
 |   1   |   그래프 탐색   |   [바로가기](https://github.com/navyjeongs/algorithm/tree/master/BOJ/GraphTraversal)   |
 |   2   |    이진 탐색    |    [바로가기](https://github.com/navyjeongs/algorithm/tree/master/BOJ/BinarySearch)    |
+|   3   |    플로이드     |   [바로가기](https://github.com/navyjeongs/algorithm/tree/master/BOJ/FloydWarshall)    |
+|   4   |      스택       |       [바로가기](https://github.com/navyjeongs/algorithm/tree/master/BOJ/Stack)        |
+|   5   |    투 포인터    |     [바로가기](https://github.com/navyjeongs/algorithm/tree/master/BOJ/TwoPointer)     |
+|   6   |  유니온 파인드  |     [바로가기](https://github.com/navyjeongs/algorithm/tree/master/BOJ/UnionFind)      |
+|   7   |    백트래킹     |    [바로가기](https://github.com/navyjeongs/algorithm/tree/master/BOJ/Backtracking)    |
 
 ## 프로그래머스
 
@@ -20,5 +25,7 @@
 
 ## 자료구조
 
+코딩테스트에서 사용할 자료구조입니다.
 | Index | 제목 | 바로가기 |
 | :---: | :--: | :------: |
+| 0 | 큐 | [바로가기](https://github.com/navyjeongs/algorithm/tree/master/DataStructure/Queue) |
