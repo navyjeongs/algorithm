@@ -37,6 +37,7 @@ function DFS(y, x) {
       countMap[y][x] += DFS(newY, newX);
     }
   }
+
   return countMap[y][x];
 }
 
